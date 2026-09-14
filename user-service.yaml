@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: user-service
-
   datasource:
     url: ${user_DB_URL}
     username: ${user_DB_USERNAME}
